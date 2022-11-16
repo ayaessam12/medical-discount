@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61772811261",
+    "project_id": "test5-a3979",
+    "storage_bucket": "test5-a3979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61772811261:android:4acf1befdee7cb292f6794",
+        "android_client_info": {
+          "package_name": "com.example.medical_discount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61772811261-ja0i8hq6i3m8adlquh36p4igmrg9v29f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMSA4vciRvy_mzoCFCFljYxG1LZcG4UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61772811261-ja0i8hq6i3m8adlquh36p4igmrg9v29f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
